@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 9,
+      "title": "Post #9",
+      "text": "Ac tincidunt vitae semper quis lectus. Senectus et netus et malesuada.",
+      "authorId": 1
+    },
+    {
+      "id": 10,
+      "title": "Post #10",
+      "text": "Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. ",
+      "authorId": 1
+    },
+    {
+      "title": "Denis",
+      "text": "B",
+      "id": 1883,
+      "authorId": 1
+    }
+  ],
+  "comments": [],
+  "me": {
+    "id": 1,
+    "name": "Pavel Topski"
+  }
+}
